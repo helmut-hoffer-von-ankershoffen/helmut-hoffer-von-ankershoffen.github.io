@@ -1,0 +1,7 @@
+Sitemap: https://helmut.hoffer-von-ankershoffen.me/sitemap.xml
+
+User-Agent: *
+Disallow: /assets/images/social.jpg
+Disallow: /assets/images/signature.jpg
+Disallow: /assets/images/helmut-hoffer-von-ankershoffen-ne-oertel-card.jpg
+
