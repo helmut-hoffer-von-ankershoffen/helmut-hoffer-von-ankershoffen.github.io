@@ -62,7 +62,7 @@ Each page declares its alternate explicitly:
 
 When Helmut rewrites a bio one-liner (in chat, in email, on another surface), it overrides everything older. Sync to **all** copies in both languages immediately, including meta/OG/Twitter blocks. Don't preserve older phrasings "for variety" — they read as drift.
 
-Snowflake role on public surfaces: **"Managing streaming at Snowflake Inc."** (or DE: "Managing streaming bei Snowflake Inc."). Lowercase `streaming` — it's a discipline, not a product name. Team scope and product framing are confidential and must not appear here.
+Snowflake role on public surfaces: **"Manager at Snowflake Inc."** (or DE: **"Manager bei Snowflake Inc."**). No discipline qualifier — Helmut dropped "Managing streaming" on 2026-05-29 in favour of the bare title. Team scope and product framing remain confidential and must not appear here.
 
 DE Ironman verb: **"trete beim Ironman an"** (compete in), not "finishe" (false-friend). Same applies to other Anglicism traps — favour idiomatic German.
 
